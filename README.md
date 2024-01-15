@@ -17,10 +17,10 @@ The primary goal is to compare the effectiveness of these algorithms in predicti
 ## New Data Prediction
 1. Input Data:
 
-Provide the required input data to the model. Ensure that the input features align with the variables the model was trained on.
+Provide the required input data to the model. Ensure that the input features align with the variables the model was trained on.  
 2. Preprocessing:
 
-Preprocess the input data as per the model's requirements. This may include scaling, normalization, or any other necessary transformations.
+Preprocess the input data as per the model's requirements. This may include scaling, normalization, or any other necessary transformations.  
 3. Run Prediction:
 
 Apply the input data to the trained model. This typically involves using a function or method provided by the model to obtain predictions.
